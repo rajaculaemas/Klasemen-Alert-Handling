@@ -1,0 +1,7 @@
+requests
+pytz
+sqlalchemy
+pymysql
+dash
+dash-table
+pandas
